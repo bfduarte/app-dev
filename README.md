@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+<h1><strong>Riverdale</strong></h1>
+<img src="https://www.usmagazine.com/wp-content/uploads/2022/08/Riverdale-Casts-Most-Candid-Quotes-About-Show-Ending-After-Season-7-001.jpg?w=1200&quality=82&strip=all" alt="Riverdale" width="750" height="500">
+<p> Riverdale (also known as Rivervale[a]) is an American teen drama television series based on the characters of Archie Comics. The series was adapted for The CW by Archie Comics' chief creative officer Roberto Aguirre-Sacasa, and is produced by Warner Bros. Television and CBS Studios, in association with Berlanti Productions and Archie Comics. Conceived as a feature film adaptation for Warner Bros. Pictures, the idea was re-imagined as a television series for Fox. In 2015, development on the project moved to The CW, where the series was ordered for a pilot. Filming takes place in Vancouver, British Columbia. 
+  The series features an ensemble cast based on the characters of Archie Comics, with KJ Apa in the role of Archie Andrews, Lili Reinhart as Betty Cooper, Camila Mendes as Veronica Lodge, and Cole Sprouse as Jughead Jones, the series' narrator. After a teenager was murdered within the town of Riverdale, this group of teenagers try to unravel the evils lurking within this seemingly innocent town. Riverdale debuted on January 26, 2017, to positive reviews.</p>
